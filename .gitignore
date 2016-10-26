@@ -1,0 +1,11 @@
+.metadata
+*/bin/
+*/target/
+pro*/.classpath
+pro*/.project
+pro*/.settings/
+*/.cache-main
+*/.cache-tests
+*/.worksheet
+*/Project/project/
+*/project/target/
